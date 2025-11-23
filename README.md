@@ -36,7 +36,7 @@ Add the dependency to your `pom.xml`:
 Manual Installation
 ```
 Clone the repository:
- git clone https://github.com/your-username/weather-sdk.git
+ git clone https://github.com/synaxum/weather-sdk-task.git
  cd weather-sdk
 ```
 
